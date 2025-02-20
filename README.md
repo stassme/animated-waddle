@@ -9,3 +9,4 @@
 | 05.02.2025 | 2 | Cybersecurity and data privacy | Authentication lab1 2FA simple bypass |
 | 09.02.2025 | 2 | Cybersecurity and data privacy  | Authentication lab2 Password reset broken logic |
 | 09.02.2025 | 2 | Cybersecurity and data privacy  | Access control lab1 Unprotected admin functionality + lab2 same but with unpredictable url  |
+| 15.02.2025 | 10 |  Developing and architecting of cloud solutions  | From la1 to lab7  |
